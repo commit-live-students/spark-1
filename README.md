@@ -5,8 +5,8 @@ Before this lesson, we recommend you go through
 
 * Read about why [Spark is a Crossover Hit For Data Scientists](http://blog.cloudera.com/blog/2014/03/why-apache-spark-is-a-crossover-hit-for-data-scientists/)
 
-## Learning Objectives
-
+## Notes
+[Notes](https://github.com/commit-live-students/spark-1/tree/master/notes)
 
 ## Agenda
 
